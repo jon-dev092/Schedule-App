@@ -28,4 +28,4 @@ MIT
 
 ## Links
 [Github Repo](https://github.com/jon-dev092/Schedule-App)                     
-[Deployed Page]()
+[Deployed Page](https://jon-dev092.github.io/Schedule-App/)
